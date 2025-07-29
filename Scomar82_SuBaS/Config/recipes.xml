@@ -1640,6 +1640,10 @@
 				<recipe name="MSchematicParts" count="1" craft_area="Schematicswp" craft_time="1">
 					<ingredient name="MagazineNotes" count="1" />
 				</recipe>
+
+				<recipe name="MSchematicParts" count="1" craft_area="Schematicswp" craft_time="1">
+					<ingredient name="QuestNotes" count="1" />
+				</recipe>
 			</if>
 			
 			<else>
