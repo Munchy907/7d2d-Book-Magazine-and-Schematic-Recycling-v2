@@ -1,4 +1,4 @@
-# Book Magazine and Schematic Recycling v2 updated
+# Book Magazine and Schematic Recycling for v2
 Updated Scomar82's Book Magazine and Schematic Recycling for version 2.1
 
 Updated Link:
