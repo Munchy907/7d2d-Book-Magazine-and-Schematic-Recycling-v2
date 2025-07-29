@@ -1,5 +1,14 @@
 # Book Magazine and Schematic Recycling v2 updated
-Updated Scomar's Book Magazine and Schematic Recycling for version 2.1
+Updated Scomar82's Book Magazine and Schematic Recycling for version 2.1
 
-Original:
-https://7daystodiemods.com/book-magazine-and-schematic-recycling/
+Updated Link:
+
+7 Days to Die Mods: TBD
+
+Original links:
+
+Nexus: https://www.nexusmods.com/7daystodie/mods/5913
+
+7 Days to Die Mods: https://7daystodiemods.com/book-magazine-and-schematic-recycling/
+
+Github: https://github.com/Scomar82/7-Days-Modlets
