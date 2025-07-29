@@ -23,72 +23,6 @@
 			<ingredient name="MSchematicParts" count="160" />
 		</recipe>
 
-<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++Questbooks+++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-		
-		<recipe name="spKill100" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="56" />
-			<ingredient name="resourcePaper" count="5" />
-			<ingredient name="resourceGlue" count="1" />
-			<ingredient name="resourceLeather" count="1" />
-		</recipe>
-		
-		<recipe name="spKill250" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="112" />
-			<ingredient name="resourcePaper" count="10" />
-			<ingredient name="resourceGlue" count="2" />
-			<ingredient name="resourceLeather" count="2" />
-		</recipe>
-		
-		<recipe name="spTGH" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="56" />
-			<ingredient name="resourcePaper" count="5" />
-			<ingredient name="resourceGlue" count="1" />
-			<ingredient name="resourceLeather" count="1" />
-		</recipe>
-		
-		<recipe name="spHdsA" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="56" />
-			<ingredient name="resourcePaper" count="5" />
-			<ingredient name="resourceGlue" count="1" />
-			<ingredient name="resourceLeather" count="1" />
-		</recipe>
-		
-		<recipe name="spGrace" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="112" />
-			<ingredient name="resourcePaper" count="10" />
-			<ingredient name="resourceGlue" count="2" />
-			<ingredient name="resourceLeather" count="2" />
-		</recipe>
-		
-		<recipe name="spDireWolf" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="112" />
-			<ingredient name="resourcePaper" count="10" />
-			<ingredient name="resourceGlue" count="2" />
-			<ingredient name="resourceLeather" count="2" />
-		</recipe>
-		
-		<recipe name="spGreenThumb" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="24" />
-			<ingredient name="resourcePaper" count="4" />
-			<ingredient name="resourceGlue" count="1" />
-			<ingredient name="resourceLeather" count="1" />
-		</recipe>
-		
-		<recipe name="spBuildingMats" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="30" />
-			<ingredient name="resourcePaper" count="5" />
-			<ingredient name="resourceGlue" count="1" />
-			<ingredient name="resourceLeather" count="1" />
-		</recipe>
-		
-		<recipe name="spSkillPointBook" count="1" craft_area="Schematicswp" craft_time="6">
-			<ingredient name="MSchematicParts" count="150" />
-			<ingredient name="resourcePaper" count="15" />
-			<ingredient name="resourceGlue" count="5" />
-			<ingredient name="resourceLeather" count="5" />
-		</recipe>
-		
-
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++Perk books 20 zu 1+++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		
 		<recipe name="bookRangersArrowRecovery" count="1" craft_area="Schematicswp" craft_time="12">
@@ -1645,6 +1579,8 @@
 					<ingredient name="QuestNotes" count="1" />
 				</recipe>
 			</if>
+
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++Questbooks+++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			
 			<else>
 				<recipe name="spKill100" count="1" craft_area="Schematicswp" craft_time="6">
