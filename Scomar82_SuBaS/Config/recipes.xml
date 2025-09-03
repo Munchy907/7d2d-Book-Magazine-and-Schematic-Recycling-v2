@@ -612,6 +612,62 @@
 			<ingredient name="resourceGlue" count="2" />
 			<ingredient name="resourceLeather" count="1" />
 		</recipe>
+
+		<!-- *** Sledge Saga Vol 1: Knockdown -->
+		<recipe name="bookSledgeSagaKnockdown" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 2: Degradation -->
+		<recipe name="bookSledgeSagaDegradation" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 3: Crippled Morale -->
+		<recipe name="bookSledgeSagaCrippledMorale" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 4: Pulverizing Finishers -->
+		<recipe name="bookSledgeSagaPulverizingFinishers" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 5: Savage Reaper -->
+		<recipe name="bookSledgeSagaSavageReaper" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 6: Concussive Strike -->
+		<recipe name="bookSledgeSagaConcussiveStrike" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
+		
+		<!-- *** Sledge Saga Vol 7: Armor Crusher -->
+		<recipe name="bookSledgeSagaArmorCrusher" count="1" craft_area="Schematicswp" craft_time="12">
+			<ingredient name="MSchematicParts" count="120" />
+			<ingredient name="resourcePaper" count="12" />
+			<ingredient name="resourceGlue" count="2" />
+			<ingredient name="resourceLeather" count="1" />
+		</recipe>
 		
 		<recipe name="bookSniperAPAmmo" count="1" craft_area="Schematicswp" craft_time="12">
 			<ingredient name="MSchematicParts" count="120" />
